@@ -4,8 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-using Entidades;
-
 namespace MiCalculadora
 {
     static class Program
